@@ -14,14 +14,14 @@
 - [x] Best batsman in powerplay
 - [x] Best batsman in death overs (last 4 overs)
 - [x] Best Batting Strike Rate
-- [ ] Best Batting Average
-- [ ] Bowler vs Batsman Head to Head Competition
-- [ ] Best Partnerships
-- [ ] Batsman Score Percentage 
+- [x] Best Batting Average
+- [x] Bowler vs Batsman Head to Head Competition
+- [x] Best Partnerships (in Analyse IPL Data notebook)
+- [x] Top 4 Batsman Score comparison 
 
 
 #### Bowler Statistics
-- [ ] Bowler providing most extras
+- [x] Bowler providing most extras
 - [ ] Best bowler in powerplay
 - [ ] Best bowler in death overs (last 4 overs)
 - [ ] Bowler vs Batsman Head to Head Competition
