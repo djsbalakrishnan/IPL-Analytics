@@ -22,24 +22,19 @@
 
 #### Bowler Statistics
 - [x] Bowler providing most extras
+- [x] Most Wickets
+- [x] Most Maidens
+- [x] Most Dot Balls
+- [x] Most Dot Balls (innings)
+- [x] Most Runs Conceded (Innings)
 - [ ] Best bowler in powerplay
 - [ ] Best bowler in death overs (last 4 overs)
-- [ ] Bowler vs Batsman Head to Head Competition
-- [ ] Highest wicket taker bowler
 - [ ] Bowler Wicket Taking Kind Percentage
-- [ ] Most Wickets
-- [ ] Most Maidens
-- [ ] Most Dot Balls
-- [ ] Most Dot Balls (innings)
 - [ ] Best Bowling Average
 - [ ] Best Bowling Economy 
 - [ ] Best Bowling Economy (innings)
 - [ ] Best Bowling Innings 
-- [ ] Most Runs Conceded (Innings)
-- [ ] Most Dot Balls Bowled (tournament)
-- [ ] Most Four Wickets in an Innings 
 
 
 #### Feilder Statistics
-- [ ] Most number of catches 
-- [ ] Most number of run - outs
+- [ ] Best Fielder 
