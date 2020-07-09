@@ -31,10 +31,10 @@
 - [ ] Best bowler in death overs (last 4 overs)
 - [ ] Bowler Wicket Taking Kind Percentage
 - [ ] Best Bowling Average
-- [ ] Best Bowling Economy 
+- [x] Best Bowling Economy 
 - [ ] Best Bowling Economy (innings)
 - [ ] Best Bowling Innings 
 
 
 #### Feilder Statistics
-- [ ] Best Fielder 
+- [x] Best Fielder 
