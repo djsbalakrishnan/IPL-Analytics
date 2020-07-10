@@ -27,13 +27,12 @@
 - [x] Most Dot Balls
 - [x] Most Dot Balls (innings)
 - [x] Most Runs Conceded (Innings)
-- [ ] Best bowler in powerplay
-- [ ] Best bowler in death overs (last 4 overs)
-- [ ] Bowler Wicket Taking Kind Percentage
-- [ ] Best Bowling Average
 - [x] Best Bowling Economy 
-- [ ] Best Bowling Economy (innings)
-- [ ] Best Bowling Innings 
+- [x] Best Bowling Economy (innings)
+- [x] Best bowler in powerplay
+- [x] Best bowler in death overs (last 4 overs)
+- [x] Bowler Wicket Taking Kind Percentage
+- [x] Best Bowling Innings
 
 
 #### Feilder Statistics
