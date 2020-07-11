@@ -60,7 +60,7 @@ We have two different CSV files that are imported as inputs.
 
 # Analysis so far!!
 
-You can find the 
+You can find the notebook (here)[https://nbviewer.jupyter.org/github/djsbalakrishnan/IPL-Analytics/blob/master/notebooks/IPLAnalytics.ipynb]
 
 #### Batsman Statistics
 - [x] Most Runs 
